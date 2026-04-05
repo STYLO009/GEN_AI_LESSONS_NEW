@@ -160,6 +160,22 @@ The models are :
 For sureshot access
 -------
 
+# 🤖 FastAPI AI Chat API
+
+An AI-powered REST API built using FastAPI and Hugging Face LLM.
+
+## 🚀 Features
+- FastAPI backend
+- AI Chat endpoint using Mistral-7B
+- Clean modular structure
+- Postman tested APIs
+
+## 🛠️ Tech Stack
+- FastAPI
+- LangChain
+- Hugging Face
+- Python
+
 ## 📂 Project Structure
 
 ```
