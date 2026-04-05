@@ -1,0 +1,1 @@
+{"name":"Local: python","url":"d:\\GEN_AI\\python.py","tests":[{"id":1775333662870,"input":"2\n4","output":"4"},{"id":1775333734194,"input":"3\n3","output":"4"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\GEN_AI\\python.py","group":"local","local":true}
