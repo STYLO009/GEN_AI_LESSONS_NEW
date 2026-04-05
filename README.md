@@ -176,6 +176,11 @@ An AI-powered REST API built using FastAPI and Hugging Face LLM.
 - Hugging Face
 - Python
 
+## IF not worked 
+Install the installations that are :
+pip install langchain langchain-huggingface
+pip install huggingface_hub transformers sentence-transformers
+
 ## 📂 Project Structure
 
 ```
