@@ -156,6 +156,11 @@ git push origin main
 The models are : 
 1) meta-llama/Llama-3.1-8B-Instruct
 2) deepseek-ai/DeepSeek-R1
+3) qwen2.5-coder
+
+### How to run Ollama for offline access --
+- ollama pull qwen2.5-coder
+- ollama run qwen2.5-coder
 
 For sureshot access
 -------
