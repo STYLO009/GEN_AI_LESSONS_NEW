@@ -186,6 +186,11 @@ Install the installations that are :
 - pip install langchain langchain-huggingface
 - pip install huggingface_hub transformers sentence-transformers
 
+### How the Structure Data is working 
+- TypedDict Schema
+- Pydantic 
+- JSON
+
 ## 📂 Project Structure
 
 ```
