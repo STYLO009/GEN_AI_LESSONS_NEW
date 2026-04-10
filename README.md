@@ -161,6 +161,9 @@ The models are :
 ### How to run Ollama for offline access --
 - ollama pull qwen2.5-coder
 - ollama run qwen2.5-coder
+- ollama pull llama3.2
+- ollama run llama3.2
+
 
 For sureshot access
 -------
