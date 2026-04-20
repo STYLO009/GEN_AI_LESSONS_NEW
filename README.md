@@ -166,6 +166,10 @@ The models are :
 
 
 For sureshot access
+
+
+### Wanna check your Chain Diagram/Structure --
+- chain.get_graph().print_ascii() #use this command you can check the structure
 -------
 
 # 🤖 FastAPI AI Chat API
